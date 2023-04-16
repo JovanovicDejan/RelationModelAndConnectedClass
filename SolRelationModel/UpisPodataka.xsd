@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="SviPodaci" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="SviPodaci">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="KupacID" msdata:AutoIncrementSeed="1" type="xs:int" />
+                <xs:element name="NazivKupca">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="50" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="Adresa" minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="200" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <SviPodaci>
+    <KupacID>1</KupacID>
+    <NazivKupca>test</NazivKupca>
+    <Adresa>Test</Adresa>
+  </SviPodaci>
+  <SviPodaci>
+    <KupacID>2</KupacID>
+    <NazivKupca>test1</NazivKupca>
+    <Adresa>Test1</Adresa>
+  </SviPodaci>
+  <SviPodaci>
+    <KupacID>3</KupacID>
+    <NazivKupca>test2</NazivKupca>
+    <Adresa>Test2</Adresa>
+  </SviPodaci>
+  <SviPodaci>
+    <KupacID>4</KupacID>
+    <NazivKupca>test3</NazivKupca>
+    <Adresa>Test3</Adresa>
+  </SviPodaci>
+  <SviPodaci>
+    <KupacID>5</KupacID>
+    <NazivKupca>test4</NazivKupca>
+    <Adresa>Test4</Adresa>
+  </SviPodaci>
+</NewDataSet>

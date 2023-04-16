@@ -1,0 +1,11 @@
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\bin\Debug\RelationModel.exe.config
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\bin\Debug\RelationModel.exe
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\bin\Debug\RelationModel.pdb
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.csproj.AssemblyReference.cache
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.Form1.resources
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.Properties.Resources.resources
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.csproj.GenerateResource.cache
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.csproj.CoreCompileInputs.cache
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.exe
+C:\Users\dejan\Desktop\MZPP Projekat\SolRelationModel\RelationModel\obj\Debug\RelationModel.pdb
